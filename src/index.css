@@ -11,7 +11,6 @@
 
 body {
   margin: 0;
-  font-family: "Georgia", serif;
   background: #f3f0e6;
 }
 
@@ -39,7 +38,7 @@ section {
 
 h1, h2 {
   margin: 0 0 16px 0;
-  font-weight: 600;
+  font-weight: 100;
   color: #F2F1E4;
   font-family: 'Faculty Glyphic', serif;
 }
@@ -66,11 +65,6 @@ p, li, span, body, section {
   background: #463D2F;
   color: #ece7df;
 }
-
-/* HERO */
-.hero {
-}
-
 .cta {
   margin-top: 22px;
   padding: 12px 22px;
